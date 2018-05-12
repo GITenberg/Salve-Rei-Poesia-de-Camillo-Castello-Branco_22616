@@ -1,0 +1,52 @@
+_repo: Salve-Rei-Poesia-de-Camillo-Castello-Branco_22616
+_version: 0.1.0
+contributor:
+  unknown_contributor:
+    agent_name: Vasconcellos, Frazão de
+    aliases:
+    - Vasconcellos, Frazao de
+    - Vasconcelos, José Frazão de
+    - Vasconcelos, Jose Frazao de
+    - Vasconcelos, Frazão de
+    gutenberg_agent_id: '25448'
+    url: http://www.gutenberg.org/2009/agents/25448
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Branco, Camilo Castelo
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Branco, Camilo Ferreira Botelho Castelo
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: This ebook uses a beginning of the 20th century spelling
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22616'
+language: pt
+production_note: Produced by Vasco Salgado
+publication_note: "Lisboa:\r\nTypographia A. J. Ferros & Ferros F.^os\r\nRua dos Retrozeiros,\
+  \ 41 e 43\r\n1915"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'Salve, Rei!
+
+  Poesia de Camillo Castello Branco'
+url: http://www.gutenberg.org/ebooks/22616
